@@ -1,0 +1,12 @@
+{
+  "ttt":[
+     {
+    "name": "John Doe",
+    "university": "zarqa University",
+    "about":"frontend developer",
+    "city": "zarqa",
+    "country": "jordan",
+    "id":1
+  }
+]
+}
