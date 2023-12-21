@@ -1,12 +1,32 @@
 {
-  "ttt":[
-     {
-    "name": "John Doe",
-    "university": "zarqa University",
-    "about":"frontend developer",
-    "city": "zarqa",
-    "country": "jordan",
-    "id":1
-  }
-]
+  "ttt": [
+    {
+      "name": "John Doe",
+      "university": "zarqa University",
+      "about": "frontend developer",
+      "city": "zarqa",
+      "country": "jordan",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "ccccwwwwwwwww",
+      "id": 3
+    },
+    {
+      "name": "cccccwwwwwwwwwwww",
+      "id": 2
+    }
+  ],
+  "Education": [
+    {
+      "name": "ccccc",
+      "id": 1
+    },
+    {
+      "name": "aaaaaaaaaaa",
+      "id": 2
+    }
+  ]
 }
